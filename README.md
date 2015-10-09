@@ -4,7 +4,7 @@ Give wings to your Particle Core or Photon using this stackable piggyback board.
 
 ![PCB](/wings.png)
 
-### [Order this PCB on OSH Park](oshpark)
+### [Order this PCB on OSH Park][oshpark]
 
 ## What it's good for
 
@@ -15,9 +15,9 @@ I use this to connect the [Programmer Shield] to a Photon in an existing circuit
 
 ## Assembly instructions
 
-[Buy the PCB from OSH Park](oshpark)
+[Buy the PCB from OSH Park][oshpark]
 
-Solder a row of [12-pin stackable headers](headers-12) or 2 [6-pin stackable headers](headers-6) to each middle column of holes (the one bordered by the white rectangle).
+Solder a row of [12-pin stackable headers][headers-12] or 2 [6-pin stackable headers][headers-6] to each middle column of holes (the one bordered by the white rectangle).
 
 Then solder other wires, headers, etc to the other columns of holes.
 
